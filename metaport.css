@@ -1,0 +1,112 @@
+body{padding: 0;
+margin: 0;}
+
+
+div{background-color: #0b1653;
+ height:90vh ;}
+
+ img{width: 180px; height: 5vh; 
+ 	margin-left: 30px; margin-top: 40px;}
+
+ ul{list-style-type: none;}
+
+ .line{display: inline; margin: 12px;
+ 	color: white; font-size: 18px;}
+
+ #list{background-color: #0b1653;
+  height: 10vh; width:550px;
+  
+  float: right; padding-top: 40px;}
+
+.button{ background-color: orangered; 
+  	font-size: 15px; 
+    border-radius:20px;
+  	padding: 5px 20px;
+  	color: white;
+  	border: none;}
+
+ .button:hover {
+background-color: darkorange;
+cursor: pointer;}
+
+ #text{ background-color: #0b1653; 
+ height: 45vh; 
+ width: 500px; 
+margin-top: 160px; 
+ margin-left: 180px;
+ padding-top: 30px;
+color: lightslategray;
+font-size: 15px;
+font-family: 'Ubuntu', sans-serif;
+letter-spacing: 2px;
+float: left;}
+
+#big{font-size:30px;
+font-family: 'Ubuntu', sans-serif;
+letter-spacing: 3px;
+text-shadow:none ;
+color: white;}
+
+#boxes{ width: 380px;
+height: 60vh; 
+float: right;
+margin-right: 180px;
+margin-top: 100px;}
+
+#other{background-color: white;
+letter-spacing: 2px;
+line-height: 150% ;
+text-align: center;
+padding-top: 120px; 
+padding-left: 50px;
+padding-bottom: 30px;
+color: dimgray;
+font-size: 19px;}
+
+#another{ font-size: 31px; 
+font-family: 'Ubuntu', sans-serif;
+color: black;
+line-height: 200%;}
+
+.diff{ width: 270px;
+height: 46vh;
+float: left;
+display: inline;
+margin-right: 20px;
+margin-top: 20px;
+padding: 30px;
+text-align: left;
+border-radius: 15px;
+font-family: 'Ubuntu', sans-serif;
+letter-spacing: 0;
+font-size: 19px;
+color: white;}
+
+#hello{ background-color: white;
+height: 70vh; 
+padding-left: 120px; 
+padding-top: 20px;}
+
+.head{ text-align: center;
+border-radius:  50px 50px; 
+width: 43px;
+height: 5vh;
+
+margin-top: 20px;
+padding: 9px 5px;
+background-color: #ff6d00;}
+
+.strong{ font-size: 22px; 
+font-family: 'Ubuntu', sans-serif;
+line-height: 200%;}
+
+#smart{ height: 25vh; width: 950px; 
+border-radius: 15px; 
+margin: 40px 120px;
+font-family: 'Ubuntu', sans-serif;
+color: white;
+text-align: left; padding: 50px;
+letter-spacing: 1px;}
+
+#get{ font-size:25px ; 
+line-height: 250%;}
